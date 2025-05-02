@@ -1,0 +1,6 @@
+natasha
+sqlalchemy
+pandas
+jupyter
+psycopg2
+matplotlib
